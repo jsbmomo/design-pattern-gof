@@ -7,8 +7,9 @@ GoF 디자인 패턴 학습 프로젝트입니다.
 해당 코드는 GIS Developer 김형준님의 유튜브 영상을 보고 작성하였습니다.
 
 링크 <a>https://www.youtube.com/@gisdeveloper</a>
-
-
+<br>
+<br>
+<hr>
 <strong style="font-size: 15px">PART</strong>
 
 A. Iterator 패턴
