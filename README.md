@@ -8,6 +8,7 @@ GoF 디자인 패턴 학습 프로젝트입니다.
 
 링크 <a>https://www.youtube.com/@gisdeveloper</a>
 
-PART
+
+<strong style="font-size: 15px">PART</strong>
 
 A. Iterator 패턴
