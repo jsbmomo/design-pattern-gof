@@ -12,4 +12,8 @@ GoF 디자인 패턴 학습 프로젝트입니다.
 <hr>
 <strong style="font-size: 15px">PART</strong>
 
-A. Iterator 패턴
+A. Iterator 패턴<br>
+
+B. Strategy 패턴
+
+C. Template 패턴
