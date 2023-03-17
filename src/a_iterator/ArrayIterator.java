@@ -1,7 +1,7 @@
 package a_iterator;
 
 public class ArrayIterator implements Iterator {
-  private Array array;
+  private final Array array;
   private int index;
 
   public ArrayIterator(Array array) {
