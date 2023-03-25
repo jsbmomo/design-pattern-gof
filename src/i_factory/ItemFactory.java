@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Objects;
 
 public class ItemFactory extends Factory {
-  private class ItemData {
+  private static class ItemData {
     int maxCount;
     int currentCount;
     ItemData(int maxCount) {
